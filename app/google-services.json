@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "238326964592",
+    "firebase_url": "https://fooddeliverysystem-9f947.firebaseio.com",
+    "project_id": "fooddeliverysystem-9f947",
+    "storage_bucket": "fooddeliverysystem-9f947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238326964592:android:4d58ecb4ae482d0d",
+        "android_client_info": {
+          "package_name": "com.hostel.fooddeliverysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238326964592-59f0a6dih6p0bivfk9v53cr85qtap6gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hostel.fooddeliverysystem",
+            "certificate_hash": "aae87e17f62771d266d8d7a41f65bfc65b30557f"
+          }
+        },
+        {
+          "client_id": "238326964592-ve7dkp9eo23nofj6s2895eqfrve0fugo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfb9wAZG56LrYhxkwVZBWPaQGaV3_kw5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238326964592-ve7dkp9eo23nofj6s2895eqfrve0fugo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
